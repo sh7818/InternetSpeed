@@ -1,5 +1,4 @@
 import speedtest
-import datetime
 import numpy as np
 import datetime
 from time import time
