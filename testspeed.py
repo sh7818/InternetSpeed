@@ -31,4 +31,4 @@ if __name__ == "__main__":
                   print(res)
 	except KeyboardInterrupt:
             np.array(res).dump(open('perfomanceTest.npy', 'wb'))
-            pass
+            raise
